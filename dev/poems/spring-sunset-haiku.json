@@ -1,0 +1,16 @@
+{
+	"title": "Spring Sunset Haiku",
+	"slug": "spring-sunset-haiku",
+	"date": {
+		"year": 2018,
+		"month": 3,
+		"day": 23,
+		"hour": 0,
+		"minute": 0,
+		"second": 31
+	},
+	"content": "<p>On the road home from groceries, our poet encountered a sunrise...</p>\r\n<div class=\"mezun-verse mezun-haiku\">\r\n\t<h2 class=\"mezun-haiku-title\">Occhio per occhio rende tutto il mondo cieco</h2>\r\n\t<div class=\"mezun-stanza\">\r\n\t\t<p>No photos :( ~</p>\r\n\t\t<p>camera hibernates</p>\r\n\t\t<p>deep in spring.</p>\r\n\t</div>\r\n\t<h2 class=\"mezun-haiku-title\">Tramonto in marzo... il tempo sicuramente vola</h2>\r\n\t<div class=\"mezun-stanza\">\r\n\t\t<p>Spring sunset ~</p>\r\n\t\t<p>its sexiness is always</p>\r\n\t\t<p>ending.</p>\r\n\t</div>\r\n\t<h2 class=\"mezun-haiku-title\">Suonare sullo sfondo</h2>\r\n\t<div class=\"mezun-stanza\">\r\n\t\t<p>Mountains whose orange</p>\r\n\t\t<p>is a bit grayer</p>\r\n\t\t<p>in the back.</p>\r\n\t</div>\r\n</div>\r\n<p>E infine...</p>\r\n<div class=\"mezun-verse mezun-haiku\">\r\n\t<h2 class=\"mezun-haiku-title\">終不為君通</h2>\r\n\t<div class=\"mezun-stanza\">\r\n\t\t<p>Ciel rose perlé ~</p>\r\n\t\t<p>au-dessus de</p>\r\n\t\t<p>mots en toc sur Dieu.</p>\r\n\t</div>\r\n</div>",
+	"categories": [
+		"haiku-senryu-y-amigos"
+	]
+}

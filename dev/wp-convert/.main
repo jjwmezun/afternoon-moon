@@ -1,0 +1,2 @@
+#!/bin/bash
+nodejs /var/www/poetry/dev/wp-convert/main.js /var/www/poetry/dev/wp-convert/wp-data.xml
