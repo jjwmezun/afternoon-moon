@@ -1,0 +1,12 @@
+{
+	"dirs":
+	{
+		"dev-root": "/var/www/poetry/",
+		"url-root": "http://poetry.local/",
+		"public": "public_html/",
+		"pages": "",
+		"poems": "poem/"
+	},
+	"page-ext": ".html",
+	"page-ext-url": ".html"
+}
