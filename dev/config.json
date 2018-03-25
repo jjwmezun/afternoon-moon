@@ -8,5 +8,8 @@
 		"poems": "poem/"
 	},
 	"page-ext": ".html",
-	"page-ext-url": ".html"
+	"page-ext-url": ".html",
+	"website-title": "Fetid Dandilions",
+	"website-desc": "Bad Poetry Is Good",
+	"poems_in_home": 10
 }

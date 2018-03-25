@@ -25,7 +25,6 @@ const Main = function()
 {
 	const DATA = Get();
 	const DOCUMENTS = Make( DATA );
-	//console.log( DOCUMENTS );
 	Clear( DATA[ 'config' ] );
 	Print( DOCUMENTS, DATA[ 'config' ] );
 };

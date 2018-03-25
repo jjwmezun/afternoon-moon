@@ -16,7 +16,21 @@ module.exports = function( data )
 		return text;
 	};
 
-	const CONTENT = PoemList( data );
-	const TEMPLATE = data[ 'templates' ][ 'main' ];
-	return TempFunctions.interpolate( 'content', TEMPLATE, CONTENT );
+	const RecentPoems = function( data )
+	{
+		const MakePoem = require( './make-poem.js' );
+		const LIMIT = data.config.poems_in_home;
+		let content = '';
+
+		for ( let i = 0; i < LIMIT; i++ )
+		{
+			let poem = data.poems[ i ];
+			poem.title = TempFunctions.poem_link( data.config, poem );
+			content += MakePoem( data, poem );
+		}
+		return content;
+	};
+
+	const CONTENT = RecentPoems( data );
+	return TempFunctions.main( data, CONTENT, null );
 };
