@@ -1,16 +1,16 @@
 {
-	"title": "Super Blue Blood Moon™",
-	"slug": "super-blue-blood-moon",
-	"date": {
-		"year": 2018,
-		"month": 2,
-		"day": 1,
-		"hour": 1,
-		"minute": 27,
-		"second": 6
-	},
-	"content": "<img src=\"https://mezunian.com/wp-content/uploads/2018/02/super-blue-blood-moon.jpg\" alt=\"\" class=\"mezun-post-img\"><div class=\"mezun-verse mezun-haiku mezun-stanza\"><p>Super Blue Blood Moon&trade; ~</p><p>nothing like what journos</p><p>write about you.</p></div><p>I look forward to <a href=\"https://www.space.com/39557-next-blood-moon-eclipses-2018-2019.html\">the next super-awesome-you-can't-miss-it moon that you'll ne'er see for 'nother century next year.</a></p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Super Blue Blood Moon™",
+    "slug": "super-blue-blood-moon",
+    "date": {
+        "year": 2018,
+        "month": 2,
+        "day": 1,
+        "hour": 1,
+        "minute": 27,
+        "second": 6
+    },
+    "content": "<img src=\"https://mezunian.com/wp-content/uploads/2018/02/super-blue-blood-moon.jpg\" alt=\"\" class=\"poem-img\"><div class=\"poem-haiku poem-stanza\"><p>Super Blue Blood Moon&trade; ~</p><p>nothing like what journos</p><p>write about you.</p></div><p>I look forward to <a href=\"https://www.space.com/39557-next-blood-moon-eclipses-2018-2019.html\">the next super-awesome-you-can't-miss-it moon that you'll ne'er see for 'nother century next year.</a></p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

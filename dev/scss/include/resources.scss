@@ -1,0 +1,22 @@
+$root_url: "http://poetry.local";
+$img_dir: "img";
+$fonts_dir: "fonts";
+
+@function img( $local_filename )
+{
+	@return url( "#{ $root_url }/#{ $img_dir }/#{ $local_filename }" );
+}
+
+@function font( $local_filename )
+{
+	@return url( "#{ $root_url }/#{ $fonts_dir }/#{ $local_filename }" );
+}
+
+@mixin font_face( $local_filename, $name )
+{
+	@font-face
+	{
+		font-family: $name;
+		src: font( $local_filename );
+	}
+}

@@ -1,16 +1,16 @@
 {
-	"title": "even it dances",
-	"slug": "even-it-dances",
-	"date": {
-		"year": 2016,
-		"month": 5,
-		"day": 2,
-		"hour": 0,
-		"minute": 0,
-		"second": 38
-	},
-	"content": "<p style=\"text-align:center;\">black spring tea—<br />even it dances<br />to the beat.</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "even it dances",
+    "slug": "even-it-dances",
+    "date": {
+        "year": 2016,
+        "month": 5,
+        "day": 2,
+        "hour": 0,
+        "minute": 0,
+        "second": 38
+    },
+    "content": "<p style=\"text-align:center;\">black spring tea—<br />even it dances<br />to the beat.</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

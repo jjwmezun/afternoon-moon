@@ -1,16 +1,16 @@
 {
-	"title": "New Year's snow",
-	"slug": "new-years-snow",
-	"date": {
-		"year": 2015,
-		"month": 2,
-		"day": 14,
-		"hour": 16,
-		"minute": 9,
-		"second": 51
-	},
-	"content": "<p style=\"text-align:center;\">New Year’s snow—\nfrost sticks to wooden limbs\non my laptop wallpaper.</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "New Year's snow",
+    "slug": "new-years-snow",
+    "date": {
+        "year": 2015,
+        "month": 2,
+        "day": 14,
+        "hour": 16,
+        "minute": 9,
+        "second": 51
+    },
+    "content": "<p style=\"text-align:center;\">New Year’s snow—\nfrost sticks to wooden limbs\non my laptop wallpaper.</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

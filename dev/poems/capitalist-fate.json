@@ -1,16 +1,16 @@
 {
-	"title": "Capitalist Fate",
-	"slug": "capitalist-fate",
-	"date": {
-		"year": 2015,
-		"month": 4,
-		"day": 6,
-		"hour": 0,
-		"minute": 0,
-		"second": 55
-	},
-	"content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">See, e’en George Washington says I should kill myself.</p>",
-	"categories": [
-		"proverbs"
-	]
+    "title": "Capitalist Fate",
+    "slug": "capitalist-fate",
+    "date": {
+        "year": 2015,
+        "month": 4,
+        "day": 6,
+        "hour": 0,
+        "minute": 0,
+        "second": 55
+    },
+    "content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">See, e’en George Washington says I should kill myself.</p>",
+    "categories": [
+        "proverbs"
+    ]
 }

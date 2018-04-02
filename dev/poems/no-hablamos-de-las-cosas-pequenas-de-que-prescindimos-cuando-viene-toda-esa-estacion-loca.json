@@ -1,17 +1,17 @@
 {
-	"title": "NO HABLAMOS DE LAS COSAS PEQUEÑAS DE QUE PRESCINDIMOS CUANDO VIENE TODA ESA ESTACIÓN LOCA",
-	"slug": "no-hablamos-de-las-cosas-pequenas-de-que-prescindimos-cuando-viene-toda-esa-estacion-loca",
-	"date": {
-		"year": 2015,
-		"month": 3,
-		"day": 20,
-		"hour": 0,
-		"minute": 0,
-		"second": 24
-	},
-	"content": "<div style=\"text-align:center;\"><h2>EL INVIERNO</h2><p>Tranquilo noche, <br />tan negro como blanco <br />es esta nieva.</p>  <h2>EL OTOÑO</h2><p>Caye el sol y <br />no se mueven las hojas <br />en aire muerto.</p>  <h2>EL VERANO</h2><p>Un día lleno de <br />nubes con un claro sol. <br />Todo se quema.</p>  <h2>LA PRIMAVERA</h2><p>Florece el sol, <br />y se incluye hongos <br />automicos, oh—</p><hr><blockquote style=\"font-size:.9em;\"><h2>WINTER</h2><p>Peaceful night, <br />as black <br />as the snow is white.</p>  <h2>AUTUMN</h2><p>The sun falls &amp; <br />the leaves don’t move <br />in dead air.</p>  <h2>SUMMER</h2><p>A day full o’ <br />clouds w/ a clear sun. <br />Everything burns.</p>  <h2>SPRING</h2><p>Blooms the sun, <br />as well as mushroom <br />clouds, O—</p> </blockquote></div>",
-	"categories": [
-		"espanola",
-		"haiku-senryu-y-amigos"
-	]
+    "title": "NO HABLAMOS DE LAS COSAS PEQUEÑAS DE QUE PRESCINDIMOS CUANDO VIENE TODA ESA ESTACIÓN LOCA",
+    "slug": "no-hablamos-de-las-cosas-pequenas-de-que-prescindimos-cuando-viene-toda-esa-estacion-loca",
+    "date": {
+        "year": 2015,
+        "month": 3,
+        "day": 20,
+        "hour": 0,
+        "minute": 0,
+        "second": 24
+    },
+    "content": "<div style=\"text-align:center;\"><h2>EL INVIERNO</h2><p>Tranquilo noche, <br />tan negro como blanco <br />es esta nieva.</p> <h2>EL OTOÑO</h2><p>Caye el sol y <br />no se mueven las hojas <br />en aire muerto.</p> <h2>EL VERANO</h2><p>Un día lleno de <br />nubes con un claro sol. <br />Todo se quema.</p> <h2>LA PRIMAVERA</h2><p>Florece el sol, <br />y se incluye hongos <br />automicos, oh—</p><hr><blockquote style=\"font-size:.9em;\"><h2>WINTER</h2><p>Peaceful night, <br />as black <br />as the snow is white.</p> <h2>AUTUMN</h2><p>The sun falls &amp; <br />the leaves don’t move <br />in dead air.</p> <h2>SUMMER</h2><p>A day full o’ <br />clouds w/ a clear sun. <br />Everything burns.</p> <h2>SPRING</h2><p>Blooms the sun, <br />as well as mushroom <br />clouds, O—</p> </blockquote></div>",
+    "categories": [
+        "espanola",
+        "haiku-senryu-y-amigos"
+    ]
 }

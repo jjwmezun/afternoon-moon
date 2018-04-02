@@ -1,17 +1,17 @@
 {
-	"title": "Route Sonnet",
-	"slug": "route-sonnet",
-	"date": {
-		"year": 2015,
-		"month": 6,
-		"day": 30,
-		"hour": 0,
-		"minute": 0,
-		"second": 59
-	},
-	"content": "<p><a href=\"https://www.youtube.com/watch?v=srNF-ktSH34\">Accompanying music</a></p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Feeding thirsty leaves, the grapes </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">paint the concrete oily yellow; </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">&amp; they keep unique pastel glow </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">e'en when wrinkled by dry age. </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">Get'n to business pecks the crow, </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">front &amp; back, that beaky drummer; </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">no concern that e'en in summer </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">faded mountains still smell like snow. </p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">But that sun was far too distance; </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">now there's shade. The fact, though, is that </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">still these crows get down to business.</p>",
-	"categories": [
-		"metered",
-		"mezunian-sonnet"
-	]
+    "title": "Route Sonnet",
+    "slug": "route-sonnet",
+    "date": {
+        "year": 2015,
+        "month": 6,
+        "day": 30,
+        "hour": 0,
+        "minute": 0,
+        "second": 59
+    },
+    "content": "<p><a href=\"https://www.youtube.com/watch?v=srNF-ktSH34\">Accompanying music</a></p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Feeding thirsty leaves, the grapes </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">paint the concrete oily yellow; </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">&amp; they keep unique pastel glow </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">e'en when wrinkled by dry age. </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">Get'n to business pecks the crow, </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">front &amp; back, that beaky drummer; </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">no concern that e'en in summer </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">faded mountains still smell like snow. </p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">But that sun was far too distance; </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">now there's shade. The fact, though, is that </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">still these crows get down to business.</p>",
+    "categories": [
+        "metered",
+        "mezunian-sonnet"
+    ]
 }

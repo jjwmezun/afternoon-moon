@@ -1,14 +1,14 @@
 {
-	"title": "I thought you should know…",
-	"slug": "i-thought-you-should-know",
-	"date": {
-		"year": 2017,
-		"month": 10,
-		"day": 24,
-		"hour": 0,
-		"minute": 0,
-		"second": 7
-	},
-	"content": "<p>Last night I saw on my wall the shadow o' a rose 'hind the shadow o' bars.</p>",
-	"categories": []
+    "title": "I thought you should know…",
+    "slug": "i-thought-you-should-know",
+    "date": {
+        "year": 2017,
+        "month": 10,
+        "day": 24,
+        "hour": 0,
+        "minute": 0,
+        "second": 7
+    },
+    "content": "<p>Last night I saw on my wall the shadow o' a rose 'hind the shadow o' bars.</p>",
+    "categories": []
 }

@@ -1,16 +1,16 @@
 {
-	"title": "& excess sodium…",
-	"slug": "excess-sodium",
-	"date": {
-		"year": 2018,
-		"month": 2,
-		"day": 16,
-		"hour": 0,
-		"minute": 0,
-		"second": 38
-	},
-	"content": "<div class=\"mezun-haiku mezun-verse mezun-stanza\"><p>Sour smell o&rsquo; tomato soup</p><p>&amp; excess sodium&hellip;</p><p>&hellip;in the wound.</p></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "& excess sodium…",
+    "slug": "excess-sodium",
+    "date": {
+        "year": 2018,
+        "month": 2,
+        "day": 16,
+        "hour": 0,
+        "minute": 0,
+        "second": 38
+    },
+    "content": "<div class=\"poem-haiku poem-stanza\"><p>Sour smell o&rsquo; tomato soup</p><p>&amp; excess sodium&hellip;</p><p>&hellip;in the wound.</p></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

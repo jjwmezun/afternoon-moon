@@ -1,16 +1,16 @@
 {
-	"title": "New Moon Blues",
-	"slug": "new-moon-blues",
-	"date": {
-		"year": 2015,
-		"month": 4,
-		"day": 18,
-		"hour": 0,
-		"minute": 0,
-		"second": 22
-	},
-	"content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">E'en the moon wants nothing to do with me.</p>",
-	"categories": [
-		"proverbs"
-	]
+    "title": "New Moon Blues",
+    "slug": "new-moon-blues",
+    "date": {
+        "year": 2015,
+        "month": 4,
+        "day": 18,
+        "hour": 0,
+        "minute": 0,
+        "second": 22
+    },
+    "content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">E'en the moon wants nothing to do with me.</p>",
+    "categories": [
+        "proverbs"
+    ]
 }

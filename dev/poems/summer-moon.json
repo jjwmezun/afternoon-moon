@@ -1,16 +1,16 @@
 {
-	"title": "Summer Moon™",
-	"slug": "summer-moon",
-	"date": {
-		"year": 2015,
-		"month": 6,
-		"day": 21,
-		"hour": 0,
-		"minute": 0,
-		"second": 5
-	},
-	"content": "<p style=\"text-align:center;\">Guaranteed<br />warm or your cash back--<br />Summer Moon™</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Summer Moon™",
+    "slug": "summer-moon",
+    "date": {
+        "year": 2015,
+        "month": 6,
+        "day": 21,
+        "hour": 0,
+        "minute": 0,
+        "second": 5
+    },
+    "content": "<p style=\"text-align:center;\">Guaranteed<br />warm or your cash back--<br />Summer Moon™</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

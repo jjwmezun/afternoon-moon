@@ -1,14 +1,14 @@
 {
-	"title": "On the bus: Laughter",
-	"slug": "on-the-bus-laughter",
-	"date": {
-		"year": 2017,
-		"month": 2,
-		"day": 17,
-		"hour": 0,
-		"minute": 0,
-		"second": 57
-	},
-	"content": "<div class=\"mezun-verse\">\r\nOn the bus:\r\n\r\nLaughter&mdash;\r\n\r\nDisturbed songs\r\n\r\nwhile reading\r\n\r\nchick lit.\r\n</div>",
-	"categories": []
+    "title": "On the bus: Laughter",
+    "slug": "on-the-bus-laughter",
+    "date": {
+        "year": 2017,
+        "month": 2,
+        "day": 17,
+        "hour": 0,
+        "minute": 0,
+        "second": 57
+    },
+    "content": "<div class=\"\"> On the bus:  Laughter&mdash;  Disturbed songs  while reading  chick lit. </div>",
+    "categories": []
 }

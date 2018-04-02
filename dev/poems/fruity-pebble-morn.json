@@ -1,16 +1,16 @@
 {
-	"title": "Fruity-pebble morn",
-	"slug": "fruity-pebble-morn",
-	"date": {
-		"year": 2015,
-		"month": 6,
-		"day": 22,
-		"hour": 0,
-		"minute": 0,
-		"second": 52
-	},
-	"content": "<p style=\"text-align:center;\">Fruity-pebble morn:<br />cubicle worker<br />quotes vid in comments.</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Fruity-pebble morn",
+    "slug": "fruity-pebble-morn",
+    "date": {
+        "year": 2015,
+        "month": 6,
+        "day": 22,
+        "hour": 0,
+        "minute": 0,
+        "second": 52
+    },
+    "content": "<p style=\"text-align:center;\">Fruity-pebble morn:<br />cubicle worker<br />quotes vid in comments.</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

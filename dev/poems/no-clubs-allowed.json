@@ -1,16 +1,16 @@
 {
-	"title": "No clubs allowed...",
-	"slug": "no-clubs-allowed",
-	"date": {
-		"year": 2016,
-		"month": 4,
-		"day": 22,
-		"hour": 0,
-		"minute": 0,
-		"second": 38
-	},
-	"content": "<div style=\"text-align:center;\"><p><a href=\"https://www.youtube.com/watch?v=ruRk1O-dH-c\">Accompanying music.</a></p><p>Neon hues<br />&amp; bass beats watched from<br />rain puddles.</p></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "No clubs allowed...",
+    "slug": "no-clubs-allowed",
+    "date": {
+        "year": 2016,
+        "month": 4,
+        "day": 22,
+        "hour": 0,
+        "minute": 0,
+        "second": 38
+    },
+    "content": "<div style=\"text-align:center;\"><p><a href=\"https://www.youtube.com/watch?v=ruRk1O-dH-c\">Accompanying music.</a></p><p>Neon hues<br />&amp; bass beats watched from<br />rain puddles.</p></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

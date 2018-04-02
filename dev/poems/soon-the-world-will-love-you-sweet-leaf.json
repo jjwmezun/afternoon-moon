@@ -1,16 +1,16 @@
 {
-	"title": "& Soon the World Will Love You, Sweet Leaf",
-	"slug": "soon-the-world-will-love-you-sweet-leaf",
-	"date": {
-		"year": 2015,
-		"month": 3,
-		"day": 25,
-		"hour": 0,
-		"minute": 0,
-		"second": 28
-	},
-	"content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Yes, the leaf’s still in my tea; </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">it can swim where it damn-well-please. </p>",
-	"categories": [
-		"proverbs"
-	]
+    "title": "& Soon the World Will Love You, Sweet Leaf",
+    "slug": "soon-the-world-will-love-you-sweet-leaf",
+    "date": {
+        "year": 2015,
+        "month": 3,
+        "day": 25,
+        "hour": 0,
+        "minute": 0,
+        "second": 28
+    },
+    "content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Yes, the leaf’s still in my tea; </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">it can swim where it damn-well-please. </p>",
+    "categories": [
+        "proverbs"
+    ]
 }

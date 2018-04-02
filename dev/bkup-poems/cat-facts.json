@@ -1,0 +1,16 @@
+{
+	"title": "Cat Facts",
+	"slug": "cat-facts",
+	"date": {
+		"year": 2015,
+		"month": 3,
+		"day": 28,
+		"hour": 0,
+		"minute": 0,
+		"second": 52
+	},
+	"content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Baby-doll, nothing makes me swoon-a\n</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">like a cat that smells like tuna.\n</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">Ugh.\n</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">But not so much that red vein in your eye.\n</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">Please ne’er show me that ‘gain, kitty.\n</p>",
+	"categories": [
+		"proverbs"
+	]
+}

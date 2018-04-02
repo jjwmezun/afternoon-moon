@@ -1,16 +1,16 @@
 {
-	"title": "Closing time",
-	"slug": "closing-time",
-	"date": {
-		"year": 2016,
-		"month": 7,
-		"day": 4,
-		"hour": 0,
-		"minute": 0,
-		"second": 30
-	},
-	"content": "<p style=\"text-align:center;\">Closing time—<br />ant leaves its home &amp;<br />gets to work.</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Closing time",
+    "slug": "closing-time",
+    "date": {
+        "year": 2016,
+        "month": 7,
+        "day": 4,
+        "hour": 0,
+        "minute": 0,
+        "second": 30
+    },
+    "content": "<p style=\"text-align:center;\">Closing time—<br />ant leaves its home &amp;<br />gets to work.</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

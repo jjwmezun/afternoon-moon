@@ -1,16 +1,16 @@
 {
-	"title": "vanilla tea",
-	"slug": "vanilla-tea",
-	"date": {
-		"year": 2016,
-		"month": 12,
-		"day": 7,
-		"hour": 0,
-		"minute": 0,
-		"second": 22
-	},
-	"content": "<div style=\"text-align:center;\"><p><a href=\"https://www.youtube.com/watch?v=3suEhQUt5Us\">Accompanying music</a></p><p>Winter tea&mdash;<br />taste buds insist<br />there's vanilla.</p></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "vanilla tea",
+    "slug": "vanilla-tea",
+    "date": {
+        "year": 2016,
+        "month": 12,
+        "day": 7,
+        "hour": 0,
+        "minute": 0,
+        "second": 22
+    },
+    "content": "<div style=\"text-align:center;\"><p><a href=\"https://www.youtube.com/watch?v=3suEhQUt5Us\">Accompanying music</a></p><p>Winter tea&mdash;<br />taste buds insist<br />there's vanilla.</p></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

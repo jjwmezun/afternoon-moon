@@ -1,16 +1,16 @@
 {
-	"title": "Industrial Revolution",
-	"slug": "industrial-revolution",
-	"date": {
-		"year": 2015,
-		"month": 3,
-		"day": 4,
-		"hour": 0,
-		"minute": 0,
-		"second": 2
-	},
-	"content": "<p style=\"text-align:center;\">Sparking oil puddle:<br />a frog hops in<br />Bzzzzt! Splocht!</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Industrial Revolution",
+    "slug": "industrial-revolution",
+    "date": {
+        "year": 2015,
+        "month": 3,
+        "day": 4,
+        "hour": 0,
+        "minute": 0,
+        "second": 2
+    },
+    "content": "<p style=\"text-align:center;\">Sparking oil puddle:<br />a frog hops in<br />Bzzzzt! Splocht!</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

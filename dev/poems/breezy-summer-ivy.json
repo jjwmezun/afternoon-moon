@@ -1,16 +1,16 @@
 {
-	"title": "Breezy summer ivy",
-	"slug": "breezy-summer-ivy",
-	"date": {
-		"year": 2017,
-		"month": 8,
-		"day": 12,
-		"hour": 0,
-		"minute": 0,
-		"second": 20
-	},
-	"content": "<p class=\"mezun-center\"><a href=\"https://www.youtube.com/watch?v=z5sRDlNtDV4\">Accompanying music</a></p><div class=\"mezun-haiku mezun-verse\"><p>Breezy summer ~</p><p>ivy reaches palm out</p><p>&amp; shakes.</p></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Breezy summer ivy",
+    "slug": "breezy-summer-ivy",
+    "date": {
+        "year": 2017,
+        "month": 8,
+        "day": 12,
+        "hour": 0,
+        "minute": 0,
+        "second": 20
+    },
+    "content": "<p class=\"poem-center\"><a href=\"https://www.youtube.com/watch?v=z5sRDlNtDV4\">Accompanying music</a></p><div class=\"poem-haiku \"><p>Breezy summer ~</p><p>ivy reaches palm out</p><p>&amp; shakes.</p></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

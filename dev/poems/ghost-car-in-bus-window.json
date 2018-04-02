@@ -1,16 +1,16 @@
 {
-	"title": "Ghost Car in Bus Window",
-	"slug": "ghost-car-in-bus-window",
-	"date": {
-		"year": 2017,
-		"month": 10,
-		"day": 16,
-		"hour": 0,
-		"minute": 0,
-		"second": 39
-	},
-	"content": "<div class=\"mezun-haiku\"><div class=\"mezun-stanza\"><p>Full moon night:</p></div><div class=\"mezun-stanza\"><p>sharing space</p><p>with other traffic,</p></div><div class=\"mezun-stanza\"><p>sharing the</p><p>sights of all around,</p></div><div class=\"mezun-stanza\"><p>curving into</p><p>that window</p><p>just to&mdash;&iexcl;poof!</p></div></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Ghost Car in Bus Window",
+    "slug": "ghost-car-in-bus-window",
+    "date": {
+        "year": 2017,
+        "month": 10,
+        "day": 16,
+        "hour": 0,
+        "minute": 0,
+        "second": 39
+    },
+    "content": "<div class=\"poem-haiku\"><div class=\"poem-stanza\"><p>Full moon night:</p></div><div class=\"poem-stanza\"><p>sharing space</p><p>with other traffic,</p></div><div class=\"poem-stanza\"><p>sharing the</p><p>sights of all around,</p></div><div class=\"poem-stanza\"><p>curving into</p><p>that window</p><p>just to&mdash;&iexcl;poof!</p></div></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

@@ -1,17 +1,17 @@
 {
-	"title": "October Friday 13 Sonnet",
-	"slug": "october-friday-13-sonnet",
-	"date": {
-		"year": 2017,
-		"month": 10,
-		"day": 13,
-		"hour": 12,
-		"minute": 11,
-		"second": 3
-	},
-	"content": "<p><a href=\"https://www.youtube.com/watch?v=UEgEAQ2J5wI\">Accompanying music</a></p><div class=\"mezun-post-img-container\"><img class=\"mezun-post-img\" src=\"https://mezunian.com/wp-content/uploads/2017/10/october-friday-13-sonnet.png\"></div><div class=\"mezun-verse\"><div class=\"mezun-stanza\"><p>Lemon drops on milky clouds</p><p>bound this wistful field above</p><p>pewter lakes &mdash; &iexcl;but wait! &iexcl;Look now!</p><p>&iquest;How&rsquo;d this specter enter such</p><p>verdant film now ill, when it</p><p>wasn&rsquo;t there before. Before I</p><p>eat my harvest, fix on this</p><p>ray of sunlight staged for sore eyes.</p></div><div class=\"mezun-stanza\"><p>Superstitions won&rsquo;t sway trees;</p><p>what a day to buy tea leaves &mdash;</p><p>October Friday 13.</p></div></div>",
-	"categories": [
-		"metered",
-		"mezunian-sonnet"
-	]
+    "title": "October Friday 13 Sonnet",
+    "slug": "october-friday-13-sonnet",
+    "date": {
+        "year": 2017,
+        "month": 10,
+        "day": 13,
+        "hour": 12,
+        "minute": 11,
+        "second": 3
+    },
+    "content": "<p><a href=\"https://www.youtube.com/watch?v=UEgEAQ2J5wI\">Accompanying music</a></p><div class=\"poem-img-container\"><img class=\"poem-img\" src=\"https://mezunian.com/wp-content/uploads/2017/10/october-friday-13-sonnet.png\"></div><div class=\"\"><div class=\"poem-stanza\"><p>Lemon drops on milky clouds</p><p>bound this wistful field above</p><p>pewter lakes &mdash; &iexcl;but wait! &iexcl;Look now!</p><p>&iquest;How&rsquo;d this specter enter such</p><p>verdant film now ill, when it</p><p>wasn&rsquo;t there before. Before I</p><p>eat my harvest, fix on this</p><p>ray of sunlight staged for sore eyes.</p></div><div class=\"poem-stanza\"><p>Superstitions won&rsquo;t sway trees;</p><p>what a day to buy tea leaves &mdash;</p><p>October Friday 13.</p></div></div>",
+    "categories": [
+        "metered",
+        "mezunian-sonnet"
+    ]
 }

@@ -1,16 +1,16 @@
 {
-	"title": "autumn colors man",
-	"slug": "autumn-colors-man",
-	"date": {
-		"year": 2015,
-		"month": 10,
-		"day": 10,
-		"hour": 0,
-		"minute": 0,
-		"second": 22
-	},
-	"content": "<p style=\"text-align:center;\">dragons fight</br>autumn colors man</br>on mushrooms</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "autumn colors man",
+    "slug": "autumn-colors-man",
+    "date": {
+        "year": 2015,
+        "month": 10,
+        "day": 10,
+        "hour": 0,
+        "minute": 0,
+        "second": 22
+    },
+    "content": "<p style=\"text-align:center;\">dragons fight</br>autumn colors man</br>on mushrooms</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

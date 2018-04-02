@@ -1,16 +1,16 @@
 {
-	"title": "August moon",
-	"slug": "august-moon",
-	"date": {
-		"year": 2017,
-		"month": 8,
-		"day": 2,
-		"hour": 21,
-		"minute": 23,
-		"second": 4
-	},
-	"content": "<p class=\"mezun-center\"><a href=\"https://www.youtube.com/watch?v=P5hp3_mtmvI\">Accompanying music</a></p>\r\n<div class=\"mezun-post-img-container\"><img class=\"mezun-post-img\" src=\"https://mezunian.com/wp-content/uploads/2017/08/august-moon.jpg\" alt=\"\"></div>\r\n<div class=\"mezun-haiku mezun-verse\"><p>August moon ~</p><p>nothing like</p><p>this photo.</p></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "August moon",
+    "slug": "august-moon",
+    "date": {
+        "year": 2017,
+        "month": 8,
+        "day": 2,
+        "hour": 21,
+        "minute": 23,
+        "second": 4
+    },
+    "content": "<p class=\"poem-center\"><a href=\"https://www.youtube.com/watch?v=P5hp3_mtmvI\">Accompanying music</a></p> <div class=\"poem-img-container\"><img class=\"poem-img\" src=\"https://mezunian.com/wp-content/uploads/2017/08/august-moon.jpg\" alt=\"\"></div> <div class=\"poem-haiku \"><p>August moon ~</p><p>nothing like</p><p>this photo.</p></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

@@ -1,16 +1,16 @@
 {
-	"title": "Gotta scrub",
-	"slug": "gotta-scrub",
-	"date": {
-		"year": 2015,
-		"month": 3,
-		"day": 21,
-		"hour": 0,
-		"minute": 0,
-		"second": 25
-	},
-	"content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Gotta scrub the grub stains on the tub;\n</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">‘cause e’en bathrooms need a li’l love.\n</p>",
-	"categories": [
-		"proverbs"
-	]
+    "title": "Gotta scrub",
+    "slug": "gotta-scrub",
+    "date": {
+        "year": 2015,
+        "month": 3,
+        "day": 21,
+        "hour": 0,
+        "minute": 0,
+        "second": 25
+    },
+    "content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Gotta scrub the grub stains on the tub;\n</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">‘cause e’en bathrooms need a li’l love.\n</p>",
+    "categories": [
+        "proverbs"
+    ]
 }

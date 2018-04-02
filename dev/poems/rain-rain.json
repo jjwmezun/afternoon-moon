@@ -1,16 +1,16 @@
 {
-	"title": "Rain, rain",
-	"slug": "rain-rain",
-	"date": {
-		"year": 2015,
-		"month": 4,
-		"day": 7,
-		"hour": 0,
-		"minute": 0,
-		"second": 2
-	},
-	"content": "<p style=\"text-align:center;\">Rain, rain, come again;<br />go away another day—<br />Pip-pip-pip-pip-pip.</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Rain, rain",
+    "slug": "rain-rain",
+    "date": {
+        "year": 2015,
+        "month": 4,
+        "day": 7,
+        "hour": 0,
+        "minute": 0,
+        "second": 2
+    },
+    "content": "<p style=\"text-align:center;\">Rain, rain, come again;<br />go away another day—<br />Pip-pip-pip-pip-pip.</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

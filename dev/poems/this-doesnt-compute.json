@@ -1,17 +1,17 @@
 {
-	"title": "This doesn’t compute",
-	"slug": "this-doesnt-compute",
-	"date": {
-		"year": 2017,
-		"month": 5,
-		"day": 29,
-		"hour": 0,
-		"minute": 0,
-		"second": 8
-	},
-	"content": "<div class=\"mezun-verse\"><p>While the sun still burns my flesh,</p><p class=\"mezun-indent-1\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;say, &ldquo;This doesn&rsquo;t compute&rdquo;.</p><p>Done.</p></div>",
-	"categories": [
-		"haiku-senryu-y-amigos",
-		"programming"
-	]
+    "title": "This doesn’t compute",
+    "slug": "this-doesnt-compute",
+    "date": {
+        "year": 2017,
+        "month": 5,
+        "day": 29,
+        "hour": 0,
+        "minute": 0,
+        "second": 8
+    },
+    "content": "<div class=\"\"><p>While the sun still burns my flesh,</p><p class=\"poem-indent-1\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;say, &ldquo;This doesn&rsquo;t compute&rdquo;.</p><p>Done.</p></div>",
+    "categories": [
+        "haiku-senryu-y-amigos",
+        "programming"
+    ]
 }

@@ -1,16 +1,16 @@
 {
-	"title": "clear full moon",
-	"slug": "clear-full-moon",
-	"date": {
-		"year": 2016,
-		"month": 2,
-		"day": 26,
-		"hour": 0,
-		"minute": 0,
-		"second": 11
-	},
-	"content": "<div style=\"text-align:center;\"><p><a href=\"https://www.youtube.com/watch?v=KF32DRg9opA\">Accompanying music.</a></p><p>Winter night—<br />fog smothers the stars<br />clear full moon.</p></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "clear full moon",
+    "slug": "clear-full-moon",
+    "date": {
+        "year": 2016,
+        "month": 2,
+        "day": 26,
+        "hour": 0,
+        "minute": 0,
+        "second": 11
+    },
+    "content": "<div style=\"text-align:center;\"><p><a href=\"https://www.youtube.com/watch?v=KF32DRg9opA\">Accompanying music.</a></p><p>Winter night—<br />fog smothers the stars<br />clear full moon.</p></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

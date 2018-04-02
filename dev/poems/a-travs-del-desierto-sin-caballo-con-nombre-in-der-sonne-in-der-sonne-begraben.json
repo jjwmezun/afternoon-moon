@@ -1,16 +1,16 @@
 {
-	"title": "A TRAVÉS DEL DESIERTO SIN CABALLO CON NOMBRE ( in der Sonne, in der Sonne — 埋められた )",
-	"slug": "a-travs-del-desierto-sin-caballo-con-nombre-in-der-sonne-in-der-sonne-begraben",
-	"date": {
-		"year": 2017,
-		"month": 7,
-		"day": 19,
-		"hour": 0,
-		"minute": 0,
-		"second": 45
-	},
-	"content": "<div class=\"mezun-center\"><div class=\"mezun-stanza\">After 6 &mdash;<br />sun's as full as e'er;</div><div class=\"mezun-stanza\">just waking &mdash;<br />sour smell o' neglected<br />horseradish.</div></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "A TRAVÉS DEL DESIERTO SIN CABALLO CON NOMBRE ( in der Sonne, in der Sonne — 埋められた )",
+    "slug": "a-travs-del-desierto-sin-caballo-con-nombre-in-der-sonne-in-der-sonne-begraben",
+    "date": {
+        "year": 2017,
+        "month": 7,
+        "day": 19,
+        "hour": 0,
+        "minute": 0,
+        "second": 45
+    },
+    "content": "<div class=\"poem-center\"><div class=\"poem-stanza\">After 6 &mdash;<br />sun's as full as e'er;</div><div class=\"poem-stanza\">just waking &mdash;<br />sour smell o' neglected<br />horseradish.</div></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

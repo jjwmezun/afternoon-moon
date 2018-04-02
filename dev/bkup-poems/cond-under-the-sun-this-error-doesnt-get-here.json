@@ -1,0 +1,18 @@
+{
+	"title": "( cond ( ( under-the-sun? this ) ( error \"doesn't get here\" ) ) )",
+	"slug": "cond-under-the-sun-this-error-doesnt-get-here",
+	"date": {
+		"year": 2017,
+		"month": 5,
+		"day": 22,
+		"hour": 0,
+		"minute": 0,
+		"second": 21
+	},
+	"content": "<pre>\r\n(\r\n  define\r\n  ( on-and-on text )\r\n  (\r\n    define\r\n    been-done\r\n    ( string \" has been done already\" )\r\n  )\r\n  (\r\n    string-append\r\n    text\r\n    ( on-and-on been-done )\r\n  )\r\n)\r\n\r\n(\r\n  display\r\n  (\r\n    on-and-on\r\n    ( string \"This\" )\r\n  )\r\n)\r\n</pre>",
+	"categories": [
+		"haiku-senryu-y-amigos",
+		"literature-commentary",
+		"programming"
+	]
+}

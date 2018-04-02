@@ -1,16 +1,16 @@
 {
-	"title": "hot winter showers",
-	"slug": "hot-winter-showers",
-	"date": {
-		"year": 2018,
-		"month": 2,
-		"day": 5,
-		"hour": 5,
-		"minute": 3,
-		"second": 46
-	},
-	"content": "<div class=\"mezun-verse mezun-haiku mezun-stanza\"><p>4 AM,</p><p>hot winter showers ~</p><p>coffee pot.</p></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "hot winter showers",
+    "slug": "hot-winter-showers",
+    "date": {
+        "year": 2018,
+        "month": 2,
+        "day": 5,
+        "hour": 5,
+        "minute": 3,
+        "second": 46
+    },
+    "content": "<div class=\"poem-haiku poem-stanza\"><p>4 AM,</p><p>hot winter showers ~</p><p>coffee pot.</p></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

@@ -1,14 +1,14 @@
 {
-	"title": "O'er",
-	"slug": "oer",
-	"date": {
-		"year": 2017,
-		"month": 5,
-		"day": 8,
-		"hour": 0,
-		"minute": 0,
-		"second": 14
-	},
-	"content": "<div class=\"mezun-verse\">The final pluck o&rsquo; the clover&mdash;</p><p>I love naught.</p><p>Tie the knot.</p><p>In gray matters,</p><p>the last stem has already been severed.</p><p>Too weak to pull the weakest levers.</p><p>What a pusho&rsquo;er;</p><p>now it&rsquo;s o&rsquo;er.</p></div>",
-	"categories": []
+    "title": "O'er",
+    "slug": "oer",
+    "date": {
+        "year": 2017,
+        "month": 5,
+        "day": 8,
+        "hour": 0,
+        "minute": 0,
+        "second": 14
+    },
+    "content": "<div class=\"\">The final pluck o&rsquo; the clover&mdash;</p><p>I love naught.</p><p>Tie the knot.</p><p>In gray matters,</p><p>the last stem has already been severed.</p><p>Too weak to pull the weakest levers.</p><p>What a pusho&rsquo;er;</p><p>now it&rsquo;s o&rsquo;er.</p></div>",
+    "categories": []
 }

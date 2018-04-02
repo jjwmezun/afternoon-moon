@@ -1,16 +1,16 @@
 {
-	"title": "Stale oranges",
-	"slug": "stale-oranges",
-	"date": {
-		"year": 2016,
-		"month": 6,
-		"day": 13,
-		"hour": 0,
-		"minute": 0,
-		"second": 17
-	},
-	"content": "<p style=\"text-align:center;\">Stale oranges--<br />before it e'en starts<br />summer ends.</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Stale oranges",
+    "slug": "stale-oranges",
+    "date": {
+        "year": 2016,
+        "month": 6,
+        "day": 13,
+        "hour": 0,
+        "minute": 0,
+        "second": 17
+    },
+    "content": "<p style=\"text-align:center;\">Stale oranges--<br />before it e'en starts<br />summer ends.</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

@@ -1,16 +1,16 @@
 {
-	"title": "Afternoon Moon",
-	"slug": "afternoon-moon",
-	"date": {
-		"year": 2015,
-		"month": 6,
-		"day": 10,
-		"hour": 0,
-		"minute": 0,
-		"second": 38
-	},
-	"content": "<p style=\"text-align:center;\">Out o' the blue<br />in creamy blue--<br />afternoon moon.</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Afternoon Moon",
+    "slug": "afternoon-moon",
+    "date": {
+        "year": 2015,
+        "month": 6,
+        "day": 10,
+        "hour": 0,
+        "minute": 0,
+        "second": 38
+    },
+    "content": "<p style=\"text-align:center;\">Out o' the blue<br />in creamy blue--<br />afternoon moon.</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

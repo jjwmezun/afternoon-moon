@@ -1,16 +1,16 @@
 {
-	"title": "A piece o' relief",
-	"slug": "a-piece-o-relief",
-	"date": {
-		"year": 2015,
-		"month": 3,
-		"day": 11,
-		"hour": 0,
-		"minute": 0,
-		"second": 30
-	},
-	"content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">When all o’ the towels fall off the bottom rung,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">a piece o’ relief comes from a butter cracker on the tongue.</p>",
-	"categories": [
-		"proverbs"
-	]
+    "title": "A piece o' relief",
+    "slug": "a-piece-o-relief",
+    "date": {
+        "year": 2015,
+        "month": 3,
+        "day": 11,
+        "hour": 0,
+        "minute": 0,
+        "second": 30
+    },
+    "content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">When all o’ the towels fall off the bottom rung,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">a piece o’ relief comes from a butter cracker on the tongue.</p>",
+    "categories": [
+        "proverbs"
+    ]
 }

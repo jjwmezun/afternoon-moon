@@ -1,16 +1,16 @@
 {
-	"title": "Evading Temptation",
-	"slug": "evading-temptation",
-	"date": {
-		"year": 2015,
-		"month": 3,
-		"day": 7,
-		"hour": 0,
-		"minute": 0,
-		"second": 17
-	},
-	"content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">&amp; this time I’m eating the whole banana.</p>",
-	"categories": [
-		"proverbs"
-	]
+    "title": "Evading Temptation",
+    "slug": "evading-temptation",
+    "date": {
+        "year": 2015,
+        "month": 3,
+        "day": 7,
+        "hour": 0,
+        "minute": 0,
+        "second": 17
+    },
+    "content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">&amp; this time I’m eating the whole banana.</p>",
+    "categories": [
+        "proverbs"
+    ]
 }

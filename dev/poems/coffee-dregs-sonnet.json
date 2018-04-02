@@ -1,17 +1,17 @@
 {
-	"title": "Coffee Dregs Sonnet",
-	"slug": "coffee-dregs-sonnet",
-	"date": {
-		"year": 2015,
-		"month": 4,
-		"day": 15,
-		"hour": 0,
-		"minute": 0,
-		"second": 4
-	},
-	"content": "<p><a href=\"https://www.youtube.com/watch?v=pmKP4hR2Td0\">Accompanying music.</a></p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Is that chocolate syrup splayed?</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">Spread the fluffy iris yolk,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">taste the ashes in the rain,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">smashing heart ribs with 1 stroke.</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">I remember still your warmth,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">stilled by runny April sundown,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">when imaginations swarm,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">when again I lose my grounds.</p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Still you leave your rusty stains</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">on my mug, which won’t go ‘way</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">—last month’s taste as yet remains.</p>",
-	"categories": [
-		"metered",
-		"mezunian-sonnet"
-	]
+    "title": "Coffee Dregs Sonnet",
+    "slug": "coffee-dregs-sonnet",
+    "date": {
+        "year": 2015,
+        "month": 4,
+        "day": 15,
+        "hour": 0,
+        "minute": 0,
+        "second": 4
+    },
+    "content": "<p><a href=\"https://www.youtube.com/watch?v=pmKP4hR2Td0\">Accompanying music.</a></p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Is that chocolate syrup splayed?</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">Spread the fluffy iris yolk,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">taste the ashes in the rain,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">smashing heart ribs with 1 stroke.</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">I remember still your warmth,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">stilled by runny April sundown,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">when imaginations swarm,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">when again I lose my grounds.</p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Still you leave your rusty stains</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">on my mug, which won’t go ‘way</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">—last month’s taste as yet remains.</p>",
+    "categories": [
+        "metered",
+        "mezunian-sonnet"
+    ]
 }

@@ -1,16 +1,16 @@
 {
-	"title": "La seule raison pour aujourd'hui",
-	"slug": "la-seule-raison-pour-aujourdhui",
-	"date": {
-		"year": 2016,
-		"month": 4,
-		"day": 11,
-		"hour": 0,
-		"minute": 0,
-		"second": 10
-	},
-	"content": "<p style=\"text-align:center;\">the feeling o'<br />lukewarm washcloths on<br />my pimples</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "La seule raison pour aujourd'hui",
+    "slug": "la-seule-raison-pour-aujourdhui",
+    "date": {
+        "year": 2016,
+        "month": 4,
+        "day": 11,
+        "hour": 0,
+        "minute": 0,
+        "second": 10
+    },
+    "content": "<p style=\"text-align:center;\">the feeling o'<br />lukewarm washcloths on<br />my pimples</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

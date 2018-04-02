@@ -1,17 +1,17 @@
 {
-	"title": "Cloudy Sonnet",
-	"slug": "cloudy-sonnet",
-	"date": {
-		"year": 2015,
-		"month": 4,
-		"day": 1,
-		"hour": 0,
-		"minute": 0,
-		"second": 22
-	},
-	"content": "<p><a href=\"https://www.youtube.com/watch?v=KdGVXLDDMW8\">Accompanying music.</a></p>\n<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Some will say you hide the sun;</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">I say that the sun hides you.</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">Clean as cream or stained with mud,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">mixed with every hue o' blue,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">you find comfy every season,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">mixing with both sun &amp; rain;</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">bubble me from earthly treason:</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">pillow me in dreams away.</p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Then the billows all turn gray,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">lullabies turn into shakes—</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">1 last thunder ‘fore my wake.</p>",
-	"categories": [
-		"metered",
-		"mezunian-sonnet"
-	]
+    "title": "Cloudy Sonnet",
+    "slug": "cloudy-sonnet",
+    "date": {
+        "year": 2015,
+        "month": 4,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 22
+    },
+    "content": "<p><a href=\"https://www.youtube.com/watch?v=KdGVXLDDMW8\">Accompanying music.</a></p>\n<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Some will say you hide the sun;</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">I say that the sun hides you.</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">Clean as cream or stained with mud,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">mixed with every hue o' blue,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">you find comfy every season,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">mixing with both sun &amp; rain;</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">bubble me from earthly treason:</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">pillow me in dreams away.</p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Then the billows all turn gray,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">lullabies turn into shakes—</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">1 last thunder ‘fore my wake.</p>",
+    "categories": [
+        "metered",
+        "mezunian-sonnet"
+    ]
 }

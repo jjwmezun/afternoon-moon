@@ -1,16 +1,16 @@
 {
-	"title": "Night breakfast",
-	"slug": "night-breakfast",
-	"date": {
-		"year": 2017,
-		"month": 7,
-		"day": 7,
-		"hour": 0,
-		"minute": 0,
-		"second": 29
-	},
-	"content": "<p class=\"mezun-center\"><a href=\"https://www.youtube.com/watch?v=5lvtbhtR-MU\">Accompanying music</a></p><div class=\"mezun-haiku\"><p>Night breakfast &mdash;</p><p>marshmellow stars meet,</p><p>then bob &rsquo;way.</p></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Night breakfast",
+    "slug": "night-breakfast",
+    "date": {
+        "year": 2017,
+        "month": 7,
+        "day": 7,
+        "hour": 0,
+        "minute": 0,
+        "second": 29
+    },
+    "content": "<p class=\"poem-center\"><a href=\"https://www.youtube.com/watch?v=5lvtbhtR-MU\">Accompanying music</a></p><div class=\"poem-haiku\"><p>Night breakfast &mdash;</p><p>marshmellow stars meet,</p><p>then bob &rsquo;way.</p></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

@@ -1,16 +1,16 @@
 {
-	"title": "spring leaves",
-	"slug": "spring-leaves",
-	"date": {
-		"year": 2015,
-		"month": 4,
-		"day": 23,
-		"hour": 0,
-		"minute": 0,
-		"second": 0
-	},
-	"content": "<p style=\"text-align:center;\">Morning spring<br />leaves fall on pumpkins--<br />all black text.</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "spring leaves",
+    "slug": "spring-leaves",
+    "date": {
+        "year": 2015,
+        "month": 4,
+        "day": 23,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+    },
+    "content": "<p style=\"text-align:center;\">Morning spring<br />leaves fall on pumpkins--<br />all black text.</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

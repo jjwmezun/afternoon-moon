@@ -1,16 +1,16 @@
 {
-	"title": "a thousand parked cars",
-	"slug": "a-thousand-parked-cars",
-	"date": {
-		"year": 2016,
-		"month": 2,
-		"day": 29,
-		"hour": 0,
-		"minute": 0,
-		"second": 46
-	},
-	"content": "<p style=\"text-align:center;\">Not e'en spring—<br />a thousand parked cars;<br />lonely nights.</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "a thousand parked cars",
+    "slug": "a-thousand-parked-cars",
+    "date": {
+        "year": 2016,
+        "month": 2,
+        "day": 29,
+        "hour": 0,
+        "minute": 0,
+        "second": 46
+    },
+    "content": "<p style=\"text-align:center;\">Not e'en spring—<br />a thousand parked cars;<br />lonely nights.</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

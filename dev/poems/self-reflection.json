@@ -1,16 +1,16 @@
 {
-	"title": "Self-Reflection",
-	"slug": "self-reflection",
-	"date": {
-		"year": 2015,
-		"month": 4,
-		"day": 4,
-		"hour": 0,
-		"minute": 0,
-		"second": 7
-	},
-	"content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">That’s why I shattered every mirror.</p>",
-	"categories": [
-		"proverbs"
-	]
+    "title": "Self-Reflection",
+    "slug": "self-reflection",
+    "date": {
+        "year": 2015,
+        "month": 4,
+        "day": 4,
+        "hour": 0,
+        "minute": 0,
+        "second": 7
+    },
+    "content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">That’s why I shattered every mirror.</p>",
+    "categories": [
+        "proverbs"
+    ]
 }

@@ -1,17 +1,17 @@
 {
-	"title": "Seaweed Sonnet",
-	"slug": "seaweed-sonnet",
-	"date": {
-		"year": 2015,
-		"month": 6,
-		"day": 27,
-		"hour": 0,
-		"minute": 0,
-		"second": 46
-	},
-	"content": "<p><a href=\"https://www.youtube.com/watch?v=O4Fh3BaKbVw\">Accompanying music.</a></p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">I can taste the bloody iron</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">in your sticky spinach clinging</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">to the rocks, your simple sirens,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">though its your leaves that are singing.</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">There is safety in remains,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">memories o’ wine-sweet bliss;</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">ride on waves, on ships, on chains,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">green all that is colorless.</p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Still you cling to my gray shoes;</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">though I love your ugly fruit,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">progress says you get the boot.</p>",
-	"categories": [
-		"metered",
-		"mezunian-sonnet"
-	]
+    "title": "Seaweed Sonnet",
+    "slug": "seaweed-sonnet",
+    "date": {
+        "year": 2015,
+        "month": 6,
+        "day": 27,
+        "hour": 0,
+        "minute": 0,
+        "second": 46
+    },
+    "content": "<p><a href=\"https://www.youtube.com/watch?v=O4Fh3BaKbVw\">Accompanying music.</a></p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">I can taste the bloody iron</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">in your sticky spinach clinging</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">to the rocks, your simple sirens,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">though its your leaves that are singing.</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">There is safety in remains,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">memories o’ wine-sweet bliss;</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">ride on waves, on ships, on chains,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">green all that is colorless.</p><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Still you cling to my gray shoes;</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">though I love your ugly fruit,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">progress says you get the boot.</p>",
+    "categories": [
+        "metered",
+        "mezunian-sonnet"
+    ]
 }

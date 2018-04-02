@@ -1,17 +1,17 @@
 {
-	"title": "Sie wussten nicht, dass es Valentinstag war",
-	"slug": "sie-wussten-nicht-dass-es-valentinstag-war",
-	"date": {
-		"year": 2018,
-		"month": 2,
-		"day": 28,
-		"hour": 0,
-		"minute": 0,
-		"second": 48
-	},
-	"content": "<div class=\"mezun-verse\">\r\n\t<div class=\"mezun-stanza\">\r\n\t\t<p>While a cold, heartless month like January gets to stuff its face with 31 whole days,</p>\r\n\t\t<p>&iquest;a lovely month like February only gets 28 &mdash;</p>\r\n\t\t<p>&amp; maybe 29 when there&rsquo;s an extra crumb?</p>\r\n\t\t<p>Proof o&rsquo; the cruel capitalism o&rsquo; reality.</p>\r\n\t</div>\r\n\t<div class=\"mezun-stanza mezun-haiku\">\r\n\t\t<p>Bleak & cold</p>\r\n\t\t<p>gray morns warm my heart ~</p>\r\n\t\t<p>month o&rsquo; love.</p>\r\n\t</div>\r\n\t<div class=\"mezun-stanza\"><blockquote>\r\n\t\t<p>Im Schatten des Tal des Todes,</p>\r\n\t\t<p>sie schneiden uns die Handgelenke und schicken uns in den Himmel ~</p>\r\n\t\t<p>die erste Blume nach der Flut.</blockquote></p>\r\n\t</div>\r\n</div>",
-	"categories": [
-		"deutsch",
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Sie wussten nicht, dass es Valentinstag war",
+    "slug": "sie-wussten-nicht-dass-es-valentinstag-war",
+    "date": {
+        "year": 2018,
+        "month": 2,
+        "day": 28,
+        "hour": 0,
+        "minute": 0,
+        "second": 48
+    },
+    "content": "<div class=\"\"> \t<div class=\"poem-stanza\">  <p>While a cold, heartless month like January gets to stuff its face with 31 whole days,</p>  <p>&iquest;a lovely month like February only gets 28 &mdash;</p>  <p>&amp; maybe 29 when there&rsquo;s an extra crumb?</p>  <p>Proof o&rsquo; the cruel capitalism o&rsquo; reality.</p> \t</div> \t<div class=\"poem-stanza poem-haiku\">  <p>Bleak & cold</p>  <p>gray morns warm my heart ~</p>  <p>month o&rsquo; love.</p> \t</div> \t<div class=\"poem-stanza\"><blockquote>  <p>Im Schatten des Tal des Todes,</p>  <p>sie schneiden uns die Handgelenke und schicken uns in den Himmel ~</p>  <p>die erste Blume nach der Flut.</blockquote></p> \t</div> </div>",
+    "categories": [
+        "deutsch",
+        "haiku-senryu-y-amigos"
+    ]
 }

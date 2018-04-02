@@ -1,16 +1,16 @@
 {
-	"title": "Water down-drain",
-	"slug": "water-down-the-drain",
-	"date": {
-		"year": 2015,
-		"month": 5,
-		"day": 2,
-		"hour": 0,
-		"minute": 0,
-		"second": 6
-	},
-	"content": "<p style=\"text-align:center;\">Water down-drain<br />1st light @ night<br />on a wild train.</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Water down-drain",
+    "slug": "water-down-the-drain",
+    "date": {
+        "year": 2015,
+        "month": 5,
+        "day": 2,
+        "hour": 0,
+        "minute": 0,
+        "second": 6
+    },
+    "content": "<p style=\"text-align:center;\">Water down-drain<br />1st light @ night<br />on a wild train.</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

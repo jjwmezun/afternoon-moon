@@ -1,16 +1,16 @@
 {
-	"title": "E'en if duller",
-	"slug": "een-if-duller",
-	"date": {
-		"year": 2015,
-		"month": 3,
-		"day": 14,
-		"hour": 0,
-		"minute": 0,
-		"second": 14
-	},
-	"content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">E’en if duller than a non-Italian plumber, </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">you can’t have a book that smells like fresh rubber. </p>",
-	"categories": [
-		"proverbs"
-	]
+    "title": "E'en if duller",
+    "slug": "een-if-duller",
+    "date": {
+        "year": 2015,
+        "month": 3,
+        "day": 14,
+        "hour": 0,
+        "minute": 0,
+        "second": 14
+    },
+    "content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">E’en if duller than a non-Italian plumber, </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">you can’t have a book that smells like fresh rubber. </p>",
+    "categories": [
+        "proverbs"
+    ]
 }

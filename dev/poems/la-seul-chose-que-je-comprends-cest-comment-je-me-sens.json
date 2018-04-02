@@ -1,16 +1,16 @@
 {
-	"title": "LA SEUL CHOSE QUE JE COMPRENDS C'EST COMMENT JE ME SENS",
-	"slug": "la-seul-chose-que-je-comprends-cest-comment-je-me-sens",
-	"date": {
-		"year": 2017,
-		"month": 5,
-		"day": 15,
-		"hour": 0,
-		"minute": 0,
-		"second": 50
-	},
-	"content": "<div class=\"mezun-haiku mezun-verse\"><p>The only</p><p>itchiness I like</p><p>is orange juice.</p></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "LA SEUL CHOSE QUE JE COMPRENDS C'EST COMMENT JE ME SENS",
+    "slug": "la-seul-chose-que-je-comprends-cest-comment-je-me-sens",
+    "date": {
+        "year": 2017,
+        "month": 5,
+        "day": 15,
+        "hour": 0,
+        "minute": 0,
+        "second": 50
+    },
+    "content": "<div class=\"poem-haiku \"><p>The only</p><p>itchiness I like</p><p>is orange juice.</p></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

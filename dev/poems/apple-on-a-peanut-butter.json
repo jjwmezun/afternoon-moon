@@ -1,16 +1,16 @@
 {
-	"title": "Apple on a peanut butter",
-	"slug": "apple-on-a-peanut-butter",
-	"date": {
-		"year": 2017,
-		"month": 2,
-		"day": 22,
-		"hour": 0,
-		"minute": 0,
-		"second": 4
-	},
-	"content": "<div class=\"mezun-haiku\"> <p>Apple on</p> <p>a peanut butter&mdash;</p> <p>fall winters.</p> </div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Apple on a peanut butter",
+    "slug": "apple-on-a-peanut-butter",
+    "date": {
+        "year": 2017,
+        "month": 2,
+        "day": 22,
+        "hour": 0,
+        "minute": 0,
+        "second": 4
+    },
+    "content": "<div class=\"poem-haiku\"> <p>Apple on</p> <p>a peanut butter&mdash;</p> <p>fall winters.</p> </div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

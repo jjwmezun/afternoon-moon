@@ -1,16 +1,16 @@
 {
-	"title": "Die Blätter",
-	"slug": "die-blatter",
-	"date": {
-		"year": 2016,
-		"month": 1,
-		"day": 4,
-		"hour": 0,
-		"minute": 0,
-		"second": 39
-	},
-	"content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Die Blätter sind weg.</p><p style=\"margin-top:0;text-indent:-2em;padding-left:2em;\">Jetze ist alles weg...</p><blockquote><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">The leaves are gone.</p><p style=\"margin-top:0;text-indent:-2em;padding-left:2em;\">Now everything is gone...</p></blockquote>",
-	"categories": [
-		"deutsch"
-	]
+    "title": "Die Blätter",
+    "slug": "die-blatter",
+    "date": {
+        "year": 2016,
+        "month": 1,
+        "day": 4,
+        "hour": 0,
+        "minute": 0,
+        "second": 39
+    },
+    "content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Die Blätter sind weg.</p><p style=\"margin-top:0;text-indent:-2em;padding-left:2em;\">Jetze ist alles weg...</p><blockquote><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">The leaves are gone.</p><p style=\"margin-top:0;text-indent:-2em;padding-left:2em;\">Now everything is gone...</p></blockquote>",
+    "categories": [
+        "deutsch"
+    ]
 }

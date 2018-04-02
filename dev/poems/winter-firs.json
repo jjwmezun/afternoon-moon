@@ -1,16 +1,16 @@
 {
-	"title": "Winter firs",
-	"slug": "winter-firs",
-	"date": {
-		"year": 2016,
-		"month": 12,
-		"day": 28,
-		"hour": 0,
-		"minute": 0,
-		"second": 3
-	},
-	"content": "<div style=\"text-align:center\"><p><a href=\"https://www.youtube.com/watch?v=K2RHS6ggZJg\">Accompanying music.</a></p><p><img src=\"http://mezunian.com/wp-content/uploads/2016/12/winter-firs.jpg\" alt=\"\" class=\"aligncenter\" style=\"border:2px solid #000;\" /></p><p>Winter firs&mdash;<br />in the gray distance<br />snug green clumps.</p></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Winter firs",
+    "slug": "winter-firs",
+    "date": {
+        "year": 2016,
+        "month": 12,
+        "day": 28,
+        "hour": 0,
+        "minute": 0,
+        "second": 3
+    },
+    "content": "<div style=\"text-align:center\"><p><a href=\"https://www.youtube.com/watch?v=K2RHS6ggZJg\">Accompanying music.</a></p><p><img src=\"http://mezunian.com/wp-content/uploads/2016/12/winter-firs.jpg\" alt=\"\" class=\"aligncenter\" style=\"border:2px solid #000;\" /></p><p>Winter firs&mdash;<br />in the gray distance<br />snug green clumps.</p></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

@@ -1,16 +1,16 @@
 {
-	"title": "Gray Wakes Up",
-	"slug": "gray-wakes-up",
-	"date": {
-		"year": 2016,
-		"month": 9,
-		"day": 1,
-		"hour": 0,
-		"minute": 0,
-		"second": 50
-	},
-	"content": "<p style=\"text-align:center:;\">Gray wakes up.<br />Trees molt feathers.<br />Whistle for wind.</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Gray Wakes Up",
+    "slug": "gray-wakes-up",
+    "date": {
+        "year": 2016,
+        "month": 9,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 50
+    },
+    "content": "<p style=\"text-align:center:;\">Gray wakes up.<br />Trees molt feathers.<br />Whistle for wind.</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

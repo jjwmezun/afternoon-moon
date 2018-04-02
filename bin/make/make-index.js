@@ -25,12 +25,12 @@ module.exports = function( data )
 		for ( let i = 0; i < LIMIT; i++ )
 		{
 			let poem = data.poems[ i ];
-			poem.title = TempFunctions.poem_link( data.config, poem );
-			content += MakePoem( data, poem );
+			content += MakePoem( data, poem, false );
 		}
 		return content;
 	};
 
-	const CONTENT = RecentPoems( data );
+	//const CONTENT = RecentPoems( data );
+	const CONTENT = PoemList( data );
 	return TempFunctions.main( data, CONTENT, null );
 };

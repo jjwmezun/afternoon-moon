@@ -7,7 +7,7 @@ module.exports = function( data )
 	for ( const KEY in data[ 'poems' ] )
 	{
 		const POEM = data.poems[ KEY ];
-		const CONTENT = MakePoem( data, POEM );
+		const CONTENT = MakePoem( data, POEM, true );
 		documents[ POEM.slug ] = Temp.main( data, CONTENT, POEM.title );
 	}
 

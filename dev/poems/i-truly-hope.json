@@ -1,16 +1,16 @@
 {
-	"title": "I truly hope",
-	"slug": "i-truly-hope",
-	"date": {
-		"year": 2015,
-		"month": 3,
-		"day": 31,
-		"hour": 0,
-		"minute": 0,
-		"second": 8
-	},
-	"content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">I truly hope </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">you’ll give my scraps o’ trash a warm home. </p>",
-	"categories": [
-		"proverbs"
-	]
+    "title": "I truly hope",
+    "slug": "i-truly-hope",
+    "date": {
+        "year": 2015,
+        "month": 3,
+        "day": 31,
+        "hour": 0,
+        "minute": 0,
+        "second": 8
+    },
+    "content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">I truly hope </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">you’ll give my scraps o’ trash a warm home. </p>",
+    "categories": [
+        "proverbs"
+    ]
 }

@@ -1,14 +1,14 @@
 {
-	"title": "O MI ALMA TENEMOS PETRÓLEO PARA EL PAN TENEMOS ROCK Y ROLL",
-	"slug": "o-mi-alma-tenemos-petroleo-para-el-pan-tenemos-rock-y-roll",
-	"date": {
-		"year": 2017,
-		"month": 3,
-		"day": 1,
-		"hour": 0,
-		"minute": 0,
-		"second": 54
-	},
-	"content": "<div class=\"mezun-verse\">\r\nThere's not much time for laughter.\r\n\r\nLaugh.\r\n</div>",
-	"categories": []
+    "title": "O MI ALMA TENEMOS PETRÓLEO PARA EL PAN TENEMOS ROCK Y ROLL",
+    "slug": "o-mi-alma-tenemos-petroleo-para-el-pan-tenemos-rock-y-roll",
+    "date": {
+        "year": 2017,
+        "month": 3,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 54
+    },
+    "content": "<div class=\"\"> There's not much time for laughter.  Laugh. </div>",
+    "categories": []
 }

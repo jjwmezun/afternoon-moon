@@ -1,16 +1,16 @@
 {
-	"title": "Sometimes I shudder",
-	"slug": "sometimes-i-shudder",
-	"date": {
-		"year": 2015,
-		"month": 4,
-		"day": 19,
-		"hour": 0,
-		"minute": 0,
-		"second": 11
-	},
-	"content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Sometimes I shudder </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">@ the thought o’ a world without peanut butter. </p>",
-	"categories": [
-		"proverbs"
-	]
+    "title": "Sometimes I shudder",
+    "slug": "sometimes-i-shudder",
+    "date": {
+        "year": 2015,
+        "month": 4,
+        "day": 19,
+        "hour": 0,
+        "minute": 0,
+        "second": 11
+    },
+    "content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Sometimes I shudder </p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">@ the thought o’ a world without peanut butter. </p>",
+    "categories": [
+        "proverbs"
+    ]
 }

@@ -1,4 +1,8 @@
 /dev/wp-convert/node_modules
+/dev/html-convert/node_modules
 /bin/node_modules
+/dev/.sass-cache
+/dev/node_modules
+/dev/package-lock.json
 /public_html/*.html
 /public_html/poem/*.html

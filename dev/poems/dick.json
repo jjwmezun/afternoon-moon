@@ -1,16 +1,16 @@
 {
-	"title": "Dick",
-	"slug": "dick",
-	"date": {
-		"year": 2015,
-		"month": 5,
-		"day": 3,
-		"hour": 0,
-		"minute": 0,
-		"second": 36
-	},
-	"content": "<p style=\"text-align:center;\">Dick<br />quit piddling—<br />you ruin my writing.<br /></p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Dick",
+    "slug": "dick",
+    "date": {
+        "year": 2015,
+        "month": 5,
+        "day": 3,
+        "hour": 0,
+        "minute": 0,
+        "second": 36
+    },
+    "content": "<p style=\"text-align:center;\">Dick<br />quit piddling—<br />you ruin my writing.<br /></p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

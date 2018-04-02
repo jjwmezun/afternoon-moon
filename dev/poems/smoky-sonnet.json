@@ -1,16 +1,16 @@
 {
-	"title": "Smoky Sonnet",
-	"slug": "smoky-sonnet",
-	"date": {
-		"year": 2017,
-		"month": 10,
-		"day": 5,
-		"hour": 6,
-		"minute": 10,
-		"second": 45
-	},
-	"content": "<p style=\"margin-bottom: 0\"><a href=\"https://www.youtube.com/watch?v=wYyMNXM8Kgg\">Accompanying music</a></p><div class=\"mezun-verse\"><div class=\"mezun-stanza\" style=\"margin-top: 0 !important\"><p>Sweet or spicy, &iquest;who can scent</p><p>brimstone watercolor flooding</p><p>buckets brimmed of pavement meant</p><p>bent below the toes of bloody</p><p>skullcap shrooms in dusty noon &mdash;</p><p>{ guess I best bring out the broom } &mdash;</p><p>tombs so late & all so soon,</p><p>cheering chilly autumn gloom?</p></div> <div class=\"mezun-stanza\"><p>Colored gray won&rsquo;t keep me sober;</p><p>drink before the season&rsquo;s over &mdash;</p><p>To you ghosts, let&rsquo;s toast October.</p><div></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Smoky Sonnet",
+    "slug": "smoky-sonnet",
+    "date": {
+        "year": 2017,
+        "month": 10,
+        "day": 5,
+        "hour": 6,
+        "minute": 10,
+        "second": 45
+    },
+    "content": "<p style=\"margin-bottom: 0\"><a href=\"https://www.youtube.com/watch?v=wYyMNXM8Kgg\">Accompanying music</a></p><div class=\"\"><div class=\"poem-stanza\" style=\"margin-top: 0 !important\"><p>Sweet or spicy, &iquest;who can scent</p><p>brimstone watercolor flooding</p><p>buckets brimmed of pavement meant</p><p>bent below the toes of bloody</p><p>skullcap shrooms in dusty noon &mdash;</p><p>{ guess I best bring out the broom } &mdash;</p><p>tombs so late & all so soon,</p><p>cheering chilly autumn gloom?</p></div> <div class=\"poem-stanza\"><p>Colored gray won&rsquo;t keep me sober;</p><p>drink before the season&rsquo;s over &mdash;</p><p>To you ghosts, let&rsquo;s toast October.</p><div></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

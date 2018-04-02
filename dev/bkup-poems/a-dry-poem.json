@@ -1,0 +1,16 @@
+{
+	"title": "a DRY poem",
+	"slug": "a-dry-poem",
+	"date": {
+		"year": 2017,
+		"month": 3,
+		"day": 5,
+		"hour": 0,
+		"minute": 3,
+		"second": 19
+	},
+	"content": "<p class=\"mezun-center\"><a href=\"https://www.youtube.com/watch?v=ijs8OkTlhs4\">Accompanying music.</a></p>\r\n\r\n<pre>\r\ndef is_is ( what )\r\n  \"a #{ what } is #{ is_is what }\"\r\nend\r\n\r\nputs is_is \"rose\"\r\n</pre>",
+	"categories": [
+		"haiku-senryu-y-amigos"
+	]
+}

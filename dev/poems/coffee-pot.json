@@ -1,16 +1,16 @@
 {
-	"title": "coffee pot",
-	"slug": "coffee-pot",
-	"date": {
-		"year": 2015,
-		"month": 4,
-		"day": 9,
-		"hour": 0,
-		"minute": 0,
-		"second": 57
-	},
-	"content": "<p style=\"text-align:center;\">I didn’t ask<br />for that much coffee,<br />coffee pot.</p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "coffee pot",
+    "slug": "coffee-pot",
+    "date": {
+        "year": 2015,
+        "month": 4,
+        "day": 9,
+        "hour": 0,
+        "minute": 0,
+        "second": 57
+    },
+    "content": "<p style=\"text-align:center;\">I didn’t ask<br />for that much coffee,<br />coffee pot.</p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

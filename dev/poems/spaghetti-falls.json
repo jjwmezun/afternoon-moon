@@ -1,17 +1,17 @@
 {
-	"title": "Spaghetti falls",
-	"slug": "spaghetti-falls",
-	"date": {
-		"year": 2015,
-		"month": 4,
-		"day": 2,
-		"hour": 0,
-		"minute": 0,
-		"second": 28
-	},
-	"content": "<p style=\"text-align:center;\">Spaghetti falls—<br />Splut.<br />No arm tears now—<br />solo me río.</p>",
-	"categories": [
-		"espanola",
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Spaghetti falls",
+    "slug": "spaghetti-falls",
+    "date": {
+        "year": 2015,
+        "month": 4,
+        "day": 2,
+        "hour": 0,
+        "minute": 0,
+        "second": 28
+    },
+    "content": "<p style=\"text-align:center;\">Spaghetti falls—<br />Splut.<br />No arm tears now—<br />solo me río.</p>",
+    "categories": [
+        "espanola",
+        "haiku-senryu-y-amigos"
+    ]
 }

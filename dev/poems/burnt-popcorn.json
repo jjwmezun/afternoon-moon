@@ -1,16 +1,16 @@
 {
-	"title": "burnt popcorn",
-	"slug": "burnt-popcorn",
-	"date": {
-		"year": 2017,
-		"month": 2,
-		"day": 20,
-		"hour": 0,
-		"minute": 0,
-		"second": 17
-	},
-	"content": "<div class=\"mezun-haiku\"><p>Still winter&hellip;</p><p>it don't taste so bad&mdash;</p><p>burnt popcorn.</p></div>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "burnt popcorn",
+    "slug": "burnt-popcorn",
+    "date": {
+        "year": 2017,
+        "month": 2,
+        "day": 20,
+        "hour": 0,
+        "minute": 0,
+        "second": 17
+    },
+    "content": "<div class=\"poem-haiku\"><p>Still winter&hellip;</p><p>it don't taste so bad&mdash;</p><p>burnt popcorn.</p></div>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

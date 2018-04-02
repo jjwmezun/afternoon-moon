@@ -1,16 +1,16 @@
 {
-	"title": "Forest Frenzy",
-	"slug": "forest-frenzy",
-	"date": {
-		"year": 2015,
-		"month": 7,
-		"day": 1,
-		"hour": 0,
-		"minute": 0,
-		"second": 58
-	},
-	"content": "<p><a href=\"https://www.youtube.com/watch?v=OfVCM2tNADA\">Accompanying music.</a></p><p style=\"text-align:center;\">Forest Frenzy<br />scent<br />in my backyard.<br /></p>",
-	"categories": [
-		"haiku-senryu-y-amigos"
-	]
+    "title": "Forest Frenzy",
+    "slug": "forest-frenzy",
+    "date": {
+        "year": 2015,
+        "month": 7,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 58
+    },
+    "content": "<p><a href=\"https://www.youtube.com/watch?v=OfVCM2tNADA\">Accompanying music.</a></p><p style=\"text-align:center;\">Forest Frenzy<br />scent<br />in my backyard.<br /></p>",
+    "categories": [
+        "haiku-senryu-y-amigos"
+    ]
 }

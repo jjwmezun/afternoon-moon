@@ -39,7 +39,7 @@ const PrintPages = function( docs, config )
 
 const PrintPoems = function( docs, config )
 {
-	PrintFunction( docs[ 'poems'], config, `${ config.dirs.public }${ config.dirs.poems }` );
+	PrintFunction( docs[ 'poems' ], config, `${ config.dirs.public }${ config.dirs.poems }` );
 };
 
 module.exports = function( docs, config )

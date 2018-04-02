@@ -1,14 +1,14 @@
 {
-	"title": "Die Anti-Haiku",
-	"slug": "die-anti-haiku",
-	"date": {
-		"year": 2016,
-		"month": 12,
-		"day": 16,
-		"hour": 0,
-		"minute": 0,
-		"second": 18
-	},
-	"content": "<p style=\"text-align:right;\">Buddha could not be more wrong:<br />\nThough we plug ourselves tight together,<br />\nWe are not compatible.</p>",
-	"categories": []
+    "title": "Die Anti-Haiku",
+    "slug": "die-anti-haiku",
+    "date": {
+        "year": 2016,
+        "month": 12,
+        "day": 16,
+        "hour": 0,
+        "minute": 0,
+        "second": 18
+    },
+    "content": "<p style=\"text-align:right;\">Buddha could not be more wrong:<br />\nThough we plug ourselves tight together,<br />\nWe are not compatible.</p>",
+    "categories": []
 }

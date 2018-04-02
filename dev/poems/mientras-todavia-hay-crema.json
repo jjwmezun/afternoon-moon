@@ -1,17 +1,17 @@
 {
-	"title": "Mientras todavía hay crema",
-	"slug": "mientras-todavia-hay-crema",
-	"date": {
-		"year": 2015,
-		"month": 3,
-		"day": 5,
-		"hour": 0,
-		"minute": 0,
-		"second": 4
-	},
-	"content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Mientras todavía hay crema</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">haré magdalenas.</p><blockquote><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">While there’s still cream,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">I’ll make cupcakes.</p></blockquote>  ",
-	"categories": [
-		"espanola",
-		"proverbs"
-	]
+    "title": "Mientras todavía hay crema",
+    "slug": "mientras-todavia-hay-crema",
+    "date": {
+        "year": 2015,
+        "month": 3,
+        "day": 5,
+        "hour": 0,
+        "minute": 0,
+        "second": 4
+    },
+    "content": "<p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">Mientras todavía hay crema</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">haré magdalenas.</p><blockquote><p style=\"margin-bottom:0;text-indent:-2em;padding-left:2em;\">While there’s still cream,</p><p style=\"margin:0;text-indent:-2em;padding-left:2em;\">I’ll make cupcakes.</p></blockquote> ",
+    "categories": [
+        "espanola",
+        "proverbs"
+    ]
 }

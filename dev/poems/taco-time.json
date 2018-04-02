@@ -1,14 +1,14 @@
 {
-	"title": "Taco Time ( ¿RECUERDA CUANDO JOVEN SIGNIFICABA INVINCIBLE, INVINCIBLE? ) [ ICH HABE ES NIE SO GEMEINT ]",
-	"slug": "taco-time",
-	"date": {
-		"year": 2018,
-		"month": 1,
-		"day": 18,
-		"hour": 3,
-		"minute": 44,
-		"second": 7
-	},
-	"content": "<div class=\"mezun-verse mezun-stanza\"><p>Heyo, &iquest;you remember when you took me up to that Taco Time on Burien &amp; --</p><div style=\"font-family:monospace\"><p>No.</p><p>The time's up for your tacos.</p></div></div>",
-	"categories": []
+    "title": "Taco Time ( ¿RECUERDA CUANDO JOVEN SIGNIFICABA INVINCIBLE, INVINCIBLE? ) [ ICH HABE ES NIE SO GEMEINT ]",
+    "slug": "taco-time",
+    "date": {
+        "year": 2018,
+        "month": 1,
+        "day": 18,
+        "hour": 3,
+        "minute": 44,
+        "second": 7
+    },
+    "content": "<div class=\"poem-stanza\"><p>Heyo, &iquest;you remember when you took me up to that Taco Time on Burien &amp; --</p><div style=\"font-family:monospace\"><p>No.</p><p>The time's up for your tacos.</p></div></div>",
+    "categories": []
 }
