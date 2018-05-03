@@ -12,39 +12,42 @@ module.exports =
 		return template.replace( REGEXP, content );
 	},
 
-	page_url: function( config, slug )
+	GenericPageLink: function( config, obj, link_function, classes )
 	{
-		if ( '' === slug )
+		let class_text = '';
+
+		if ( 'object' === typeof classes && classes.length > 0 )
 		{
-			return config.dirs[ 'url-root' ];
+			class_text = ` class="${ classes.join( " " ) }"`;
 		}
-		else
+		else if ( 'string' === typeof classes )
 		{
-			return config.dirs[ 'url-root' ] + config.dirs.pages + slug + config[ 'page-ext-url' ];
+			class_text = ` class="${ classes }"`;
 		}
+
+		return `<a${ class_text } href="${ link_function( obj.slug ) }">${ obj.title }</a>`;
 	},
 
 	page_link: function( config, obj, classes )
 	{
-		let class_text = '';
-
-		if ( 'object' === classes && classes.length > 0 )
+		linkFunction = config.link.page;
+		if ( obj.slug === 'lists' )
 		{
-			class_text = `class="${ classes.join( " " ) }"`;
+			linkFunction = config.link.list;
+			obj.slug = '';
 		}
 
-		return `<a ${ class_text }href="${ this.page_url( config, obj.slug ) }">${ obj.title }</a>`;
-	},
-
-	poem_url: function( config, slug )
-	{
-		return config.dirs[ 'url-root' ] + config.dirs.poems + slug + config[ 'page-ext-url' ];
+		return this.GenericPageLink( config, obj, linkFunction, classes );
 	},
 
 	poem_link: function( config, poem, classes )
 	{
-		const CLASS_TEXT = ( undefined !== classes ) ? ` class="${ classes }"` : '';
-		return `<a${ CLASS_TEXT } href="${ this.poem_url( config, poem.slug ) }">${ poem.title }</a>`;
+		return this.GenericPageLink( config, poem, config.link.poem, classes );
+	},
+
+	ListLink: function( config, list, classes )
+	{
+		return this.GenericPageLink( config, list, config.link.list, classes );
 	},
 
 	site_title: function( config, title )
@@ -53,14 +56,14 @@ module.exports =
 		return `${ PAGE_TITLE }${ config[ 'website-title' ] } &ndash; ${ config[ 'website-desc' ] }`;
 	},
 
-	css_link: function( config, name )
+	BodyPageTitle: function( title, htype = 'h1' )
 	{
-		return config.dirs[ 'url-root' ] + config.dirs[ 'css' ] + name + '.css';
+		return `<${ htype } class="page-title">${ title }</h1>`;
 	},
 
 	stylesheets: function( config )
 	{
-		return `<link href="${ this.css_link( config, "main" ) }" rel="stylesheet">`;
+		return `<link href="${ config.link.css( 'main' ) }" rel="stylesheet">`;
 	},
 
 	header: function( config )
@@ -72,8 +75,8 @@ module.exports =
 				'title': 'Home'
 			},
 			{
-				'slug': 'history',
-				'title': 'History'
+				'slug': 'die-geschichte',
+				'title': 'Die Geschichte'
 			},
 			{
 				'slug': 'lists',

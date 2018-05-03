@@ -1,0 +1,76 @@
+@import 'resources';
+
+@include font_face( "open-baskerville.otf", "Open Baskerville" );
+@import url('https://fonts.googleapis.com/css?family=Cherry+Swash:700');
+@import url('https://fonts.googleapis.com/css?family=Sniglet:800');
+@import url('https://fonts.googleapis.com/css?family=Wendy+One');
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:700,900');
+@import url('https://fonts.googleapis.com/css?family=Catamaran:900');
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline');
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+@import url('https://fonts.googleapis.com/css?family=Alegreya:800,900');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+
+.poem
+{
+	padding: 1em;
+	font-face: "Noto Serif";
+}
+
+.poem-header
+{
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+.poem-title
+{
+	font-size: 2em;
+	margin-bottom: 0;
+	font-family: "Alegreya";
+	font-weight: 900;
+	color: rgba( 4, 0, 16, .9 );
+	line-height: 1.25em;
+}
+
+.poem-date-time
+{
+	margin-left: 1em;
+	&:before
+	{
+		content: \25F4;
+	}
+}
+
+.poem-content
+{
+	line-height: 1.5em;
+
+	p
+	{
+		margin: 0;
+		padding-left: 2em;
+		text-indent: -2em;
+	}
+}
+
+.poem-img
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media screen and ( min-width: 1000px )
+{
+	.poem
+	{
+		font-size: 125%;
+	}
+
+	.poem-title
+	{
+		font-size: 4em;
+	}
+}

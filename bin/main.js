@@ -5,20 +5,22 @@ const Get = function()
 
 const Make = function( data )
 {
-	const MakeDocs = require( './make/make-docs.js' );
-	return MakeDocs( data );
+	return require( './make/make-docs.js' )( data );
 };
 
 const Clear = function( config )
 {
-	const ClearMain = require( './clear/clear-main.js' );
-	ClearMain( config );
+	require( './clear/clear-main.js' )( config );
 };
 
 const Print = function( docs, config )
 {
-	const PrintDocs = require( './print/print-docs.js' );
-	PrintDocs( docs, config );
+	require( './print/print-docs.js' )( docs, config );
+};
+
+const SetPermissions = function( config )
+{
+	require( './set-permissions.js' )( config );
 };
 
 const Main = function()
@@ -27,5 +29,6 @@ const Main = function()
 	const DOCUMENTS = Make( DATA );
 	Clear( DATA[ 'config' ] );
 	Print( DOCUMENTS, DATA[ 'config' ] );
+	SetPermissions( DATA[ 'config' ] );
 };
 Main();

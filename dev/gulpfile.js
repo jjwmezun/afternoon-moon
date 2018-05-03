@@ -5,9 +5,9 @@ const SASS_WATCH = `./${ SASS_DIR }/**/*.scss`;
 const DEST = '../public_html';
 const CSS_DEST = `${ DEST }/${ CSS_DIR }`;
 
-const Gulp = require( 'gulp' );
+const Gulp    = require( 'gulp' );
 const Compass = require( 'gulp-compass' );
-const Watch = require( 'gulp-watch' );
+const Watch   = require( 'gulp-watch' );
 const Plumber = require( 'gulp-plumber' );
 
 const Main = function( done )

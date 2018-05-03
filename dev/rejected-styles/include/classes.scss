@@ -1,0 +1,17 @@
+.poem-stanza
+{
+	margin: 1em 0;
+}
+
+.poem-haiku
+{
+	text-align: center;
+}
+
+@for $i from 1 through 20
+{
+	.poem-indent-#{ $i }
+	{
+		text-indent: #{ ( $i - 2 ) }em !important;
+	}
+}

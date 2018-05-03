@@ -1,9 +1,7 @@
-const Sorter = require( '../sorters.js' ).Date;
-
-const DIR = `${ process.cwd() }/dev/poems/`;
+const DIR = `${ process.cwd() }/dev/pages/`;
 const FS = require( 'fs' );
 
-module.exports = [];
+module.exports = {};
 
 const FILES = FS.readdirSync( DIR );
 
@@ -13,8 +11,7 @@ FILES.forEach
 	{
 		const FULL_PATH = `${ DIR }${ filename }`;
 		const DATA = JSON.parse( FS.readFileSync( FULL_PATH, 'utf8' ) );
-		module.exports.push( DATA );
+		const SLUG = ( "undefined" !== typeof DATA.slug ) ? DATA.slug : filename.replace( /.json/, '' );
+		module.exports[ SLUG ] = DATA;
 	}
 );
-
-module.exports.sort( Sorter );

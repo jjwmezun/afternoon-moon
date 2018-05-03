@@ -1,0 +1,29 @@
+{
+	"title": "A Day to Remember",
+	"slug": "a-day-to-remember",
+	"date": {
+		"year": 2010,
+		"month": 2,
+		"day": 8
+	},
+	"content": 
+	[
+		{ "lines": [
+			{ "content": "September 11, 2001 was a day I’d never forget;" },
+			{ "content": "It was a day I would always regret." },
+			{ "content": "It is harder and harder to hold back my tears;" },
+			{ "content": "And thinking about the future, my fears." },
+			{ "content": "Forever, I know, I shall always blame myself" },
+			{ "content": "For all of the ways I could have helped" },
+			{ "content": "To prevent this from hitting my family." },
+			{ "content": "But now I realize that I could not have prevented this tragedy." }
+		] },
+		{ "lines": [
+			{ "content": "September 11, 2001 was a day I’d never forget:" },
+			{ "content": "That tragic day I got that F on my Language Arts test." }
+		] }
+	],
+	"categories": [
+		"parody"
+	]
+}

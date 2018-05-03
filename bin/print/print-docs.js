@@ -1,13 +1,14 @@
-const PrintFunction = function( docs, config, local_dir )
+const PrintFunction = function( docs, config, type )
 {
-	const DIR = `${ process.cwd()}/${ local_dir }`;
+	const DOC_GROUP = docs[ type ];
+	const DIR = `${ process.cwd()}/${ config.dirs.public }${ config.dirs[ type ] }`;
 	const FS = require( 'fs' );
 	const EXT = config[ 'page-ext' ];
 
-	for ( const KEY in docs )
+	for ( const KEY in DOC_GROUP )
 	{
 		const FILENAME = `${ DIR }${ KEY }${ EXT }`;
-		const TEXT = docs[ KEY ];
+		const TEXT = DOC_GROUP[ KEY ];
 
 		try
 		{
@@ -32,18 +33,9 @@ const PrintFunction = function( docs, config, local_dir )
 	}
 };
 
-const PrintPages = function( docs, config )
-{
-	PrintFunction( docs[ 'pages'], config, `${ config.dirs.public }${ config.dirs.pages }` );
-};
-
-const PrintPoems = function( docs, config )
-{
-	PrintFunction( docs[ 'poems' ], config, `${ config.dirs.public }${ config.dirs.poems }` );
-};
-
 module.exports = function( docs, config )
 {
-	PrintPages( docs, config );
-	PrintPoems( docs, config );
+	PrintFunction( docs, config, 'pages' );
+	PrintFunction( docs, config, 'poems' );
+	PrintFunction( docs, config, 'lists' );
 };
