@@ -1,0 +1,52 @@
+{
+	"title": "[some political bullshit]",
+	"slug": "some-political-bullshit",
+	"author": "j.j. mezun",
+	"date": {
+		"year": 2010,
+		"month": 3,
+		"day": 22
+	},
+	"start-date": {
+		"year": 2010,
+		"month": 2,
+		"day": 5
+	},
+	"content": 
+	{
+		"classes":
+		[
+			"monospace"
+		],
+		"stanza":
+		[
+			{ "lines": [
+				{ "content": "“the bleeding populace ripped apart by the tyrannical" },
+				{ "content": "fascist hitlerific naziist totalarianist satanist" },
+				{ "content": "tyrannical establishment who are bleeding" },
+				{ "content": "puppets under the cruel evil malevolent fascist" },
+				{ "content": "tyrannical establishment puppet" },
+				{ "content": "master who leads them to the their doom in" },
+				{ "content": "the chasm of justice,where dirty" },
+				{ "content": "faced children(not clean-faced)cry with the" },
+				{ "content": "tears of labor which envelop us all(even me" },
+				{ "content": "in my hotel)as the devil in white laughs" },
+				{ "content": "as he sends more innocent heroic god-like " },
+				{ "content": "soldiers to their deaths forced by their " },
+				{ "content": "desire for education to gun " },
+				{ "content": "down helpless people these soldiers possessed by the " },
+				{ "content": "beast in the white house and the murdererous " },
+				{ "content": "ceos who feast on all of our sweat" },
+				{ "content": "and blood as they hold the controls of society under " },
+				{ "content": "their hooves" }
+			]},
+			{ "lines": [
+				{ "content": "“What are YOU going to do about it?" },
+				{ "content": "Because, personally, I have other things to do.&rdquo;" }
+			]}
+		]
+	},
+	"categories": [
+		"political"
+	]
+}

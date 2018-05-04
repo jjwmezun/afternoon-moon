@@ -1,0 +1,37 @@
+{
+	"title": "EXCITING POEM",
+	"slug": "exciting-poem",
+	"date": {
+		"year": 2010,
+		"month": 3,
+		"day": 30
+	},
+	"start-date": {
+		"year": 2010,
+		"month": 3,
+		"day": 21
+	},
+	"content": 
+	[
+		{ "lines": [
+			{ "content": "I was walking around outside, when I saw a large tree with leaves, and a trunk made out of wood." },
+			{ "content": "I thought to myself what a good-looking tree it was." },
+			{ "content": "I pulled off a leaf and examin’d it. It appear’d leafy." },
+			{ "content": "O Captain! my Captain! abandon ship!" },
+			{ "content": "I hear America singing, stop this awful poem." },
+			{ "content": "I am a man, who, sauntering along without ever stopping," },
+			{ "content": "Talks loquaciously for lines and lines, describing how good nature looks forever, expecting my readers to see my deep, mesmerizing imagery." },
+			{ "content": "Such as a tree, made out of wood, with leaves, and branches." },
+			{ "content": "Can you see the amazing tree I describ’d?" },
+			{ "content": "And I remember’d the wonderfulness of wandering around the country naked," },
+			{ "content": "Until the police arrest’d me, of course." },
+			{ "content": "Poetry must be free - from restrictive rules – from having to have any entertainment value." },
+			{ "content": "Resist much, obey little people who a-trying to control you and make you enslav’d by quality." },
+			{ "content": "Beginning my studies I have found this bad, and randomly sung to nature, because nature looks good." },
+			{ "content": "Somebody will actually think this audacious poem is obscene, because I am definitely a rebel, albeit, a very boring one." }
+		]}
+	],
+	"categories": [
+		"parody"
+	]
+}
